@@ -1,0 +1,14 @@
+C:\Users\vivanov\source\repos\PSS\PSS\bin\Debug\PSS.exe.config
+C:\Users\vivanov\source\repos\PSS\PSS\bin\Debug\PSS.exe
+C:\Users\vivanov\source\repos\PSS\PSS\bin\Debug\PSS.pdb
+C:\Users\vivanov\source\repos\PSS\PSS\obj\Debug\PSS.csprojAssemblyReference.cache
+C:\Users\vivanov\source\repos\PSS\PSS\obj\Debug\PSS.csproj.CoreCompileInputs.cache
+C:\Users\vivanov\source\repos\PSS\PSS\obj\Debug\PSS.exe
+C:\Users\vivanov\source\repos\PSS\PSS\obj\Debug\PSS.pdb
+F:\Службы\PSS\PSS\bin\Debug\PSS.exe.config
+F:\Службы\PSS\PSS\bin\Debug\PSS.exe
+F:\Службы\PSS\PSS\bin\Debug\PSS.pdb
+F:\Службы\PSS\PSS\obj\Debug\PSS.csprojAssemblyReference.cache
+F:\Службы\PSS\PSS\obj\Debug\PSS.csproj.CoreCompileInputs.cache
+F:\Службы\PSS\PSS\obj\Debug\PSS.exe
+F:\Службы\PSS\PSS\obj\Debug\PSS.pdb

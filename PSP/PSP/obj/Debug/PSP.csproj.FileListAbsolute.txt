@@ -1,0 +1,7 @@
+F:\PSP\PSP\bin\Debug\PSP.exe.config
+F:\PSP\PSP\bin\Debug\PSP.exe
+F:\PSP\PSP\bin\Debug\PSP.pdb
+F:\PSP\PSP\obj\Debug\PSP.csprojAssemblyReference.cache
+F:\PSP\PSP\obj\Debug\PSP.csproj.CoreCompileInputs.cache
+F:\PSP\PSP\obj\Debug\PSP.exe
+F:\PSP\PSP\obj\Debug\PSP.pdb

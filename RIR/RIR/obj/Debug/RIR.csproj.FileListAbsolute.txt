@@ -1,0 +1,7 @@
+C:\Users\vivanov\source\repos\RIR\RIR\bin\Debug\RIR.exe.config
+C:\Users\vivanov\source\repos\RIR\RIR\bin\Debug\RIR.exe
+C:\Users\vivanov\source\repos\RIR\RIR\bin\Debug\RIR.pdb
+C:\Users\vivanov\source\repos\RIR\RIR\obj\Debug\RIR.csprojAssemblyReference.cache
+C:\Users\vivanov\source\repos\RIR\RIR\obj\Debug\RIR.csproj.CoreCompileInputs.cache
+C:\Users\vivanov\source\repos\RIR\RIR\obj\Debug\RIR.exe
+C:\Users\vivanov\source\repos\RIR\RIR\obj\Debug\RIR.pdb
